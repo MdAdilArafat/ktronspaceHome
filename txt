@@ -1,0 +1,55 @@
+29line
+
+background: rgba(255,255,255,.8)  
+  font-size: 16px;
+
+
+  /*   image list */
+  1) //ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2308/photo/fe53d1cf9a.jpg?x-oss-process=image/format,webp
+  2)//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2308/photo/813cc53e95.png?x-oss-process=image/format,webp
+  3)//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2211/photo/89fcb328d7.jpg?x-oss-process=image/format,webp
+  4)//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2211/photo/91dfed6b8b.jpg?x-oss-process=image/format,webp
+  5)//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2211/photo/fb044c0b16.jpg?x-oss-process=image/format,webp
+
+
+
+link
+
+//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2211/photo/caa5ffa535.jpg?x-oss-process=image/format,webp
+//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2308/photo/acf011a239.jpg?x-oss-process=image/format,webp
+//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2309/photo/6a0ff2e5e5.jpg?x-oss-process=image/format,webp
+//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2211/photo/99a24aa196.jpg?x-oss-process=image/format,webp
+//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2309/photo/060ecfe2c1.jpg?x-oss-process=image/format,webp
+
+
+
+
+
+
+
+
+link
+//ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2309/photo/060ecfe2c1.jpg?x-oss-process=image/format,webp
+
+  https://td.doubleclick.net/td/rul/10935589741?random=1709994893457&cv=11&fst=1709994893457&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be4360v889683450za220&gcd=13l3l3l3l1&dma=0&u_w=926&u_h=512&url=https%3A%2F%2Fktronspace.com%2F&hn=www.googleadservices.com&frm=0&tiba=Customized%20industrial%20control%20room%20console%20solution%20service%20provider%20-%20Ktron%20Space&npa=0&pscdl=noapi&auid=368367150.1709361586&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0%7CChromium%3B120.0.6099.217%7CGoogle%2520Chrome%3B120.0.6099.217&uamb=1&uam=Nexus%205&uap=Android&uapv=6.0&uaw=0&fledge=1&data=event%3Dgtag.config
+
+
+icons
+
+  <i class="fa-solid fa-bars"></i>
+
+  <i class="fa-solid fa-xmark"></i>
+  
+  <i class="fa-light fa-magnifying-glass"></i>
+
+   <div class="container-fluid ">
+    <div class="row p-0 m-0 w-100 row-cols-sm-1 row-cols-1 row-cols-lg-1 row-cols-md-1" style="width: 100vw !important;">
+      <div class="col p-0 m-0  w-100 h-80" style="width: 100vw !important;">
+        <div class=" position-relative hover-y ">
+                   <h1>KTC Series</h1>
+                   <p>Intelligent Collaboration</p>
+               </div>
+               <img src="https://ueeshop.ly200-cdn.com/u_file/UPAW/UPAW886/2211/photo/19070dfb50.jpg?x-oss-process=image/format,webp" class="img-fluid"class="img-fluid" alt="...">
+             </div>
+       </div>
+    </div> 
